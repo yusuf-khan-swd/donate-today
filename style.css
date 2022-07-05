@@ -45,8 +45,8 @@ section {
 .hero-text {
   text-align: center;
   padding: 15% 25%;
-  /* position: absolute; */
-  /* top: 50%;
+  /* position: absolute;
+  top: 50%;
   left: 50%; */
   /* transform: translate(-50%, -50%); */
   color: white;
@@ -92,7 +92,7 @@ section {
   border: none;
   padding: 15px;
   border-bottom: 1px solid gray;
-  margin-bottom: 35px;
+  margin-bottom: 50px;
 }
 
 /* our-donate-plan */
