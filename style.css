@@ -34,6 +34,14 @@ section {
   margin-left: 30%;
   margin-right: 30%;
 }
+.half-width {
+  width: 50%;
+  margin-left: 5%;
+}
+.gallery-section img {
+  width: 100%;
+  height: 100%;
+}
 /* header-section */
 .hero-image {
   background-image: url(./images/donation6.jpg);
@@ -119,6 +127,11 @@ section {
 }
 #education {
   background-color: rgba(255, 0, 0, 0.247);
+}
+/* gallery-section */
+.gallery-section {
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 /* get-my-updates */
