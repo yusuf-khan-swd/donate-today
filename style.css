@@ -3,12 +3,14 @@ body {
   font-family: "Roboto", sans-serif;
   margin: 0;
 }
+body a {
+  text-decoration: none;
+}
 section {
   margin-bottom: 150px;
 }
 /* Re-usable class */
 .link-button {
-  text-decoration: none;
   /* background-image: linear-gradient(#ff0000d3, #cf6c5bf3); */
   background-color: rgba(241, 94, 68, 0.877);
   padding: 11px 25px;
@@ -78,6 +80,7 @@ section {
 .donate-today-Donation {
   margin-bottom: 50px;
 }
+
 .donation {
   height: 60px;
   width: 100px;
